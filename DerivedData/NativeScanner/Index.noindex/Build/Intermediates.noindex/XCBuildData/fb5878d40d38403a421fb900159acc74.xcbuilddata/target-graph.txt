@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'NativeScanner' in project 'NativeScanner' (no dependencies)
+Target 'NativeScanner' in project 'NativeScanner' (no dependencies)

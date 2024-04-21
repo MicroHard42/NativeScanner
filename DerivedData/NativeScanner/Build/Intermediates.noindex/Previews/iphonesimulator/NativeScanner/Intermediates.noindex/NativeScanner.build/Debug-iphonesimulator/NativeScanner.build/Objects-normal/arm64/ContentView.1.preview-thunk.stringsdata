@@ -1,0 +1,12 @@
+{
+  "source": "/Users/adam/Projects/NativeScanner/DerivedData/NativeScanner/Build/Intermediates.noindex/Previews/iphonesimulator/NativeScanner/Intermediates.noindex/NativeScanner.build/Debug-iphonesimulator/NativeScanner.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
